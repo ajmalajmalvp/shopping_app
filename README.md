@@ -1,16 +1,26 @@
-# flutter_shopping_app
+# Shopping App
 
-A new Flutter project.
 
-## Getting Started
+ **Features**
+   -  List all songs from local storage
+   -  User Authentification and related services
+   -  Add your Products
+   -  View products added by other users
+   -  View products of Different Cateogories
+   -  Maintain Cart
+   -  Mark products as your favourites
+   -  Manage your Addresses
+   -  Review the products you buy
+  
+ **Packages**
+   -  Cloud Fistore
+   -  Firebase auth
+   -  Firebase core
+   -  Firebase Storage
+   -  Image picker
+   -  Pemission handler
+   -  Provider
+   -  Url luncher
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+    
+  ### Screenshots
